@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
-
 using namespace std;
-
 int main() {
 	int n = 9, count = 0;
 	string *mas = new string[n];
